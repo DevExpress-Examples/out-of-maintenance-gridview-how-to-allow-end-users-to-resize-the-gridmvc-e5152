@@ -1,0 +1,10 @@
+﻿@Html.DevExpress().GridView(s=>{
+    s.Name = "grid";
+    s.Width = 200;
+    s.KeyFieldName = "ID";
+    s.CallbackRouteValues = new { Action = "GridViewPartial", Controller = "Home" };
+    s.Settings.ShowStatusBar = GridViewStatusBarMode.Visible;
+    s.Settings.VerticalScrollBarMode = ScrollBarMode.Auto;
+    s.Styles.StatusBar.CssClass = "myStatusBar";
+    s.SetStatusBarTemplateContent(Html.Partial("StatusBar").ToHtmlString());
+}).Bind(Enumerable.Range(0,103).Select(i=>new{ ID=i, Name="Name"+i, Description ="Description"+ i })).GetHtml()
