@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Q577966/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Q577966/Controllers/HomeController.vb))
+* [GridViewPartial.cshtml](./CS/Q577966/Views/Home/GridViewPartial.cshtml)
+* **[Index.cshtml](./CS/Q577966/Views/Home/Index.cshtml)**
+* [StatusBar.cshtml](./CS/Q577966/Views/Home/StatusBar.cshtml)
+<!-- default file list end -->
 # GridView - How to allow end-users to resize the grid(MVC)
 
 
