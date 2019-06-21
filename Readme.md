@@ -7,6 +7,9 @@
 * [StatusBar.cshtml](./CS/Q577966/Views/Home/StatusBar.cshtml)
 <!-- default file list end -->
 # GridView - How to allow end-users to resize the grid(MVC)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5152)**
+<!-- run online end -->
 
 
 <p>This example is an implementation of the <a href="https://www.devexpress.com/Support/Center/p/E5057">E5057: ASPxGridView - How to allow end-users to resize the grid</a> example for the MVC platform. <br />
