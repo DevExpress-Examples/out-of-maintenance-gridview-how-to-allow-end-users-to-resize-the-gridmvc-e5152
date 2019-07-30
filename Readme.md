@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # GridView - How to allow end-users to resize the grid(MVC)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5152)**
+**[[Run Online]](https://codecentral.devexpress.com/e5152/)**
 <!-- run online end -->
 
 
